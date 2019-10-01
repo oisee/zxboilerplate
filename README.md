@@ -11,5 +11,7 @@ That's all! Now you can use `Run build task` (Ctrl+B on Windows or ⌘+B on macO
 ## Further steps
 
 Snapshot will be saved in your project folder by default, as well as labelslist. If you need to correct paths, so change it in `main.asm`.
+
 If you need to make your custom bat/shell scripts or build tasks, you should feel free to make everything you want.
+
 See https://code.visualstudio.com/docs/editor/tasks manual for details.
