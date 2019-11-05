@@ -9,3 +9,5 @@ start		equ #6000
 
 		savesna "demo.sna",start
 		labelslist "user.l"
+		; savesna "/path/to/unreal/qsave1.sna",start
+		; labelslist "/path/to/unreal/user.l"
